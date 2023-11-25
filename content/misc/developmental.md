@@ -14,7 +14,7 @@ how the technology disparity between developing and developed nations arose in t
 
 <!--more-->
 ::inline-flex
-:u-button[read the full paper]{to=https://issuu.com/dartmouthjournalofscience/docs/20f_dujs_print_journal_v3/16}
+:styled-button[read the full paper]{to=https://issuu.com/dartmouthjournalofscience/docs/20f_dujs_print_journal_v3/16}
 ::
 ---
 
