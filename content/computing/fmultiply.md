@@ -20,9 +20,9 @@ Find the sum of all the multiples of $3$ and $5$ below $1000$.
 
 ::inline-flex
 
-[more information](https://projecteuler.net/archives){fancy}
+:styled-button[more information]{to="https://projecteuler.net/archives"}
 
-[code repository](https://github.com/siavava/epsilon/tree/main){fancy}
+:styled-button[code repository]{to="https://github.com/siavava/epsilon/tree/main"}
 
 ::
 
