@@ -5,6 +5,7 @@ description:
   sometimes requires hard conversations with yourself and disappointing a person or two.
 category: anonymous pipes
 date: 2020-07-15 23:00:00
+draft: true
 ---
 
 # Let’s Talk about Optics
