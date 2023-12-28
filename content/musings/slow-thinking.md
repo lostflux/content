@@ -1,7 +1,9 @@
 ---
 title: slow thinking
-description: Thinking slow can be an asset. It's not always a bad thing.
-category: musings
+description: |
+  The world champions the quick-witted.  
+  That does not mean taking your time to formulate considered
+  and nuanced views is a bad thing.
 date: 2023-08-25 23:00:00
 ---
 
@@ -20,6 +22,8 @@ But I recently came across [Derek Sivers' post][sivers] and found it so relatabl
 > I’m a disappointing person to try to debate or attack.
 > I just have nothing to say in the moment, except maybe _"**Good point**."_  
 > Then a few days later, after thinking about it a lot, I have a response.
+
+---
 
 I'm far more confident in expressing thoughts in text form, but even then,
 it's rarely an immediate back and forth conversation.

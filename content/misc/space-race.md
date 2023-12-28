@@ -1,13 +1,7 @@
 ---
 title: space race
-description: The Past, Present, and Future of Space Exploration.
-category: anonymous pipes
 date: 2020-12-15 23:00:00
 ---
-
-# The New Space Race
-
-## Abstract
 
 With developments in technology and the realization of the harsh reality
 that human life might someday need to relocate from a dying earth,
@@ -15,6 +9,8 @@ space exploration is becoming an increasingly important endeavor for humanity.
 
 This paper explores the history of space exploration,
 current trends, and future possibilities.
+
+<!-- more -->
 
 Collaborative publication with
 [Dev Kapadia][kapadia], [Audrey Herrald][herrald], [Anahita Kodali][anahita],

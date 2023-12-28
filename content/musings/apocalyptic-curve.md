@@ -1,7 +1,7 @@
 ---
 title: apocalyptic curve
-description: purpose 
-category: musings
+description: |
+  How do we motivate the purpose in the things we do?
 date: 2023-09-14 23:00:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: dissonance theory
-description: Cognitive dissonance in the age of robots.
-category: musings
+description: |
+  Hell is empty and all the devils are here.
 date: 2019-06-05 23:00:00
 ---
 

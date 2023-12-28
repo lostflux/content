@@ -1,11 +1,7 @@
 ---
-title: developmental
-description: How Technology is Changing the Developing World.
-category: anonymous pipes
+title: tech inroads
 date: 2020-12-15 23:00:00
 ---
-
-## Abstract
 
 Technology is one of the primary drivers of accelerated development in developing nations.
 This paper explores the role of technology in the developing world,
@@ -13,6 +9,7 @@ looking at the possibilities and challenges, and addressing
 how the technology disparity between developing and developed nations arose in the first place.
 
 <!--more-->
+
 ::inline-flex
 :styled-button[read the full paper]{to=https://issuu.com/dartmouthjournalofscience/docs/20f_dujs_print_journal_v3/16}
 ::

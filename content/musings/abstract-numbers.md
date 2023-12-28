@@ -1,9 +1,6 @@
 ---
 title: abstract numbers
-description: The human condition.
-category: musings
 date: 2023-09-02 23:00:00
-featured: true
 ---
 
 I sometimes think about the inner workings of who I am and the transparency of my truth,
@@ -12,7 +9,7 @@ the ever changing [ebb and flow of experiences][ebb-and-flow] I've had and I'm y
 I'm grateful that I have taken in so much by naturally being an observer,
 but it all feels so overwhelming, especially lately.
 
-### Lack of Inspiration
+<!-- more -->
 
 I haven't felt inspired in a long while, and perhaps it's because I've been doing the work
 mentally and haven't found a breakthrough moment to transform it into the physical world yet.
@@ -23,7 +20,7 @@ Yet, it is in the vulnerability in which I find myself that I feel the most aliv
 and maybe that deters people from wanting to stay.
 Staying to look a little closer. To look a little longer. Dive a little deeper.
 
-### Have we Peaked?
+---
 
 I wonder if my work has reached its peak and I'm meant to refocus my energy elsewhere.
 I find myself not knowing know what to create, build, or pursue next,

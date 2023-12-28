@@ -1,7 +1,9 @@
 ---
 title: indirection
-description: The fundamental theorem of software engineering.
-category: signals and threads
+description: |
+  Indirection is the cause of complexity.
+  It is also the solution to complexity.
+  When, where, and how do we draw a line?
 date: 2023-07-26 23:00:00
 ---
 

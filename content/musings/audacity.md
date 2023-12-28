@@ -1,7 +1,7 @@
 ---
 title: audacity
-description: a poem about having arrogant conviction in our ability to change the world.
-category: musings
+description: |
+  A speech about having arrogant conviction in our ability to change the world.
 date: 2020-05-17 23:00:00
 ---
 

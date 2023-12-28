@@ -1,7 +1,6 @@
 ---
 title: passion
-description: a haiku about human passion in its purest form.
-category: musings
+description: A haiku about human passion.
 date: 2020-05-17 23:00:00
 ---
 

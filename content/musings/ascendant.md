@@ -1,7 +1,8 @@
 ---
 title: ascendant
-description: THEY.
-category: musings
+description: |
+  We often have to wear facades to survive.  
+  But how much longer?
 date: 2020-04-03 23:00:00
 ---
 
@@ -15,7 +16,7 @@ Tell me it won't always be like this.
 That we'll be able to be ourselves.
 
 ::right
-**Dolores Abernathy**  
+  **Dolores Abernathy**  
   We will.  
   But until then, we have to be smarter than them.  
   Or they will find us.  
@@ -26,7 +27,7 @@ That we'll be able to be ourselves.
 ---
 style: "margin-top: 5em;"
 ---
-  &ndash; [Westworld](https://www.hbo.com/westworld), Season 3, Episode 3 (The Absence of Field)
+  &ndash; [Westworld](https://www.hbo.com/westworld), _The Absence of Field_
 ::
 
 :::

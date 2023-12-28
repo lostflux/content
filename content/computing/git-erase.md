@@ -1,15 +1,16 @@
 ---
 title: git erase
-description: How to rewrite your git history.
-category: signals and threads
 date: 2023-09-06 23:00:00
 ---
 
-## Problem
-
 If you write software, then you should be using version control tools such as `git`.
-However, if you follow [`git` best practices][git-best-practices],
-you probably often find yourself staring at a git history that looks like this:
+However, following [`git` best practices][git-best-practices]
+frequently leaves you with a messy commit history.
+How can one clean it up?
+
+<!-- more -->
+
+You might find yourself in a situation like this:
 
 ```bash [terminal]
 λ> git log --oneline
@@ -32,15 +33,6 @@ It is hard to follow along with the history of the project,
 especially when several such histories accumulate over a project's lifetime.
 All the commits were building toward a single feature,
 and it would be nice to have a more coherent history of that feature.
-
-::callout
----
-icon: "i-heroicons-exclamation-triangle"
-color: "amber"
----
-This is not about whether one should or shouldn't edit and clean up their commit history;
-this is about _how one can edit their commit history, if they want to_.
-::
 
 ::alert
 ---

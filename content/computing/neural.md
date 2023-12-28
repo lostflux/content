@@ -1,7 +1,5 @@
 ---
-title: neural
-description: data-driven behavior change
-category: signals and threads
+title: data-driven behavior change
 date: 2021-03-14 23:00:00
 ---
 
@@ -20,7 +18,7 @@ This paper explores this context around machine learning and the effects it is h
 :styled-button[Project code]{to="https://github.com/siavava/neural"}
 ::
 
----
+<!-- --- -->
 
 ## Introduction
 

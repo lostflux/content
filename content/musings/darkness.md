@@ -1,7 +1,7 @@
 ---
 title: darkness
-subtitle: Darkness
-category: musings
+description: |
+  _**Is a god who presides over killers truly a god?**_
 date: 2023-09-09 23:00:00
 ---
 

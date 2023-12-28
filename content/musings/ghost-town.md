@@ -1,7 +1,8 @@
 ---
 title: ghost town
-description: a haiku about human relationships
-category: musings
+description: |
+  Human relationships are complicated,
+  and so are the things we do to maintain them.
 date: 2023-08-04 23:00:00
 ---
 

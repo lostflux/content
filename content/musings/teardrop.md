@@ -1,7 +1,8 @@
 ---
 title: teardrop
-description: a haiku about emotional contradictions.
-category: musings
+description: |
+  A haiku about emotional contradictions
+  and the absence of "collectedness."
 date: 2020-08-13 23:00:00
 ---
 

@@ -1,7 +1,14 @@
 ---
 title: nothingness
-description: 'On origins: can nothing be something?'
-category: musings
+description: |
+  What happens after we die?  
+  Where does our energy go?  
+  And what about the universe?  
+  Can it die?
+  _Where did it come from?_
+
+  _**How could there be nothing.  
+  And then, suddenly, something?**_
 date: 2023-09-19 23:00:00
 ---
 

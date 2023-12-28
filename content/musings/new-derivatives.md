@@ -1,27 +1,22 @@
 ---
 title: derivatives
-description: Finding new ideas in a creative block.
-category: musings
 date: 2023-11-23 23:00:00
 ---
 
-<!-- # Try taking time out to just play with your field for your own enjoyment -->
 When I experience a creative block, I sometimes try to force my mind back
 into a productive state, to think ever so hard about the problem,
-and squeeze out a new idea.
-
+and squeeze out a new idea.  
 The physicist Richard Feynman speaks of a similar period of "burn-out"
-in his research, where he felt he was not making progress.
+in his work, where he felt he was not making progress.
 Except he decided to stop trying to do research entirely,
 instead playing with interesting ideas in his field
-without regard to where they would go.  
-Here is an excerpt from his biography:
+without regard to where they would go.
 
-:br
+<!-- more -->
 
 ::prose-blockquote
 ---
-name: Richard Feynman
+name: Richard Feynman, Biographical
 link: https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/
 ---
 
@@ -78,11 +73,9 @@ I almost tried to resist it!
 There was no importance to what I was doing, but ultimately there was.
 The diagrams and the whole business that I got the Nobel Prize for
 came from that piddling around with the wobbling plate.
-
 ::
 
-:br
-:br
+---
 
 One needs a certain amount of privilege or inconsequnce
 to be able to take time off from their required work,

@@ -1,7 +1,9 @@
 ---
 title: fmultiply
-description: computing with functional design patterns
-category: signals and threads
+description: |
+  _**Multiples of 3 and 5.**_  
+  Such a simple problem can teach us important nuances
+  about functional programming and why it is important.
 date: 2023-06-21 00:00:00
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: maniac
-description: Moments that square our truth to feelings unchanged by time.
-category: musings
 date: 2023-07-15 00:00:00
 ---
 
@@ -12,6 +10,8 @@ We may reject them in fear of their pain
 hoping that they fade or vanish entirely.
 But such artifacts do not easily faint;
 instead, they grow in perpetual search for a shadow to call home.
+
+<!-- more -->
 
 ::right
   They persist.  

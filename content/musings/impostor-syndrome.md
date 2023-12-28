@@ -1,7 +1,8 @@
 ---
 title: imposting
-description: Impostor syndrome...
-category: musings
+description: |
+  Do you feel you just aren't "good enough"?  
+  _**This is for you.**_
 date: 2023-07-17 23:00:00
 ---
 

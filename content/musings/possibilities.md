@@ -1,7 +1,8 @@
 ---
 title: possibilities
-description: The blur of possibilities.
-category: musings
+description: |
+  Putting your all into everything you commit to
+  also means some big disappointments.
 date: 2019-08-03 23:00:00
 ---
 

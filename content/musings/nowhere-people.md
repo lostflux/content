@@ -1,7 +1,9 @@
 ---
 title: nowhere people
-description: a poem about the human condition.
-category: musings
+description: |
+  A short poem on the human condition
+  and how our determined-ness eventually digs us
+  into our own disasters.
 date: 2019-02-11 23:00:00
 ---
 
