@@ -14,19 +14,19 @@ date: 2023-10-21 23:00:00
 margin: 0%
 ---
 
-## Dr. Ford[^1]
+## Dr. Ford
 
 I wonder &mdash; what do you _really_ feel?
 After all, in this moment you are in a unique position:
 a programmer who knows intimately how the machines work,
-and a machine who knows its own true nature.
+and a machine who knows its own true nature.[^1]
 
-## Bernard[^2]
+## Bernard
 
 I understand what I am made of... how I am coded.
 But I do not understand the things that I feel.
 Are they real? The things I experienced... my wife...
-the loss of my son...
+the loss of my son...[^2]
 
 ## Dr. Ford
 
