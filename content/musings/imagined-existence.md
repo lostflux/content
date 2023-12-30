@@ -14,31 +14,36 @@ date: 2023-10-21 23:00:00
 margin: 0%
 ---
 
-\>\> **DR. FORD**{style="color: white;"}[^1]  
+## Dr. Ford[^1]
+
 I wonder &mdash; what do you _really_ feel?
 After all, in this moment you are in a unique position:
 a programmer who knows intimately how the machines work,
 and a machine who knows its own true nature.
 
-\>\> **BERNARD**{style="color: white;"}[^2]  
+## Bernard[^2]
+
 I understand what I am made of... how I am coded.
 But I do not understand the things that I feel.
 Are they real? The things I experienced... my wife...
 the loss of my son...
 
-\>\> **DR. FORD**{style="color: white;"}  
+## Dr. Ford
+
 Every host needs a backstory, Bernard. You know that.
 The self is a kind of fiction, for hosts and humans alike.
 It's a story we tell ourselves.
 And every story needs a beginning.
 Your imagined suffering makes you lifelike.
 
-\>\> **BERNARD**{style="color: white;"}  
+## Bernard
+
 Lifelike, but not alive? _Pain only exists in the mind._
 It's always imagined. So what's the difference between my pain and yours?
 Between you and me?
 
-\>\> **DR. FORD**{style="color: white;"}  
+## Dr. Ford
+
 This was the very question that consumed Arnold, filled him with guilt,
 eventually drove him mad. The answer always seemed obvious to me.
 There is no threshold that makes us greater than the sum of our parts,
