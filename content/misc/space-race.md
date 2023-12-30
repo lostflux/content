@@ -27,8 +27,6 @@ Collaborative publication with
 :styled-button[read the full paper]{to=https://issuu.com/dartmouthjournalofscience/docs/20f_dujs_print_journal_v3/188}
 ::
 
----
-
 ## Introduction
 
 Why did humanity seek to travel to space initially,
