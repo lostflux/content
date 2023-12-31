@@ -13,9 +13,9 @@ This paper explores this context around machine learning and the effects it is h
 <!--more-->
 
 ::inline-flex
-:styled-button[read the full paper]{to="https://issuu.com/dartmouthjournalofscience/docs/21w_dujs_print_v1/16"}
+[read the full paper](https://issuu.com/dartmouthjournalofscience/docs/21w_dujs_print_v1/16"){fancy}
 
-:styled-button[Project code]{to="https://github.com/siavava/neural"}
+[project code](https://github.com/siavava/neural){fancy}
 ::
 
 <!-- --- -->

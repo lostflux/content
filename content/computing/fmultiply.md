@@ -1,30 +1,38 @@
 ---
 title: fmultiply
 description: |
-  _**Multiples of 3 and 5.**_  
-  Such a simple problem can teach us important nuances
-  about functional programming and why it is important.
-date: 2023-06-21 00:00:00
+  If we list all the natural numbers below $10$ that are multiples of $3$ or $5$,
+  we get $3$, $5$, $6$ and $9$. The sum of these multiples is $23$.
+  Find the sum of all the multiples of $3$ and $5$ below $1000$.
+
+  ```math
+  \begin{aligned}
+    \mathcal{D} &= \biggl\{ x \in [1..1000] \;\;\colon\;\; (3 \mid x)\;\; \lor \;\; (5 \mid x) \biggr \} \\ \\
+    f(x) &= \sum_{n \;\in\; \mathcal{D}} n
+  \end{aligned}
+  ```
+
+date: 2023-06-21 23:00:00
 ---
 
-## Problem
-
-If we list all the natural numbers below 10 that are multiples of $3$ or $5$,
+If we list all the natural numbers below $10$ that are multiples of $3$ or $5$,
 we get $3$, $5$, $6$ and $9$. The sum of these multiples is $23$.
-
 Find the sum of all the multiples of $3$ and $5$ below $1000$.
 
 ```math
-\int_{0}^{1000} \left( x \right) dx
+\begin{aligned}
+  \mathcal{D} &= \biggl\{ x \in [1..1000] \;\;\colon\;\; (3 \mid x)\;\; \lor \;\; (5 \mid x) \biggr \} \\ \\
+  f(x) &= \sum_{n \;\in\; \mathcal{D}} n
+\end{aligned}
 ```
 
 <!--more-->
 
 ::inline-flex
 
-:styled-button[more information]{to="https://projecteuler.net/archives"}
+[more information](https://projecteuler.net/archives){fancy}
 
-:styled-button[code repository]{to="https://github.com/siavava/epsilon/tree/main"}
+[code repository](https://github.com/siavava/epsilon/tree/main){fancy}
 
 ::
 
@@ -167,7 +175,7 @@ factorial n = iter n 1
       | otherwise = iter (n - 1) (acc * n)
 ```
 
-Now, our stack trace is much simpler, and we only use $O(1)$ memory:
+Now, our stack trace is much simpler, and we only use $\Omega(1)$ memory:
 
 ```haskell [Main.hs]
 factorial 5     -- call 

@@ -24,7 +24,7 @@ Collaborative publication with
 [neff]:    https://www.linkedin.com/in/sam-neff-8b72a5194/
 
 ::inline-flex
-:styled-button[read the full paper]{to=https://issuu.com/dartmouthjournalofscience/docs/20f_dujs_print_journal_v3/188}
+[read the full paper](https://issuu.com/dartmouthjournalofscience/docs/20f_dujs_print_journal_v3/188){fancy}
 ::
 
 ## Introduction
