@@ -1,10 +1,16 @@
 ---
 title: exercise for the reader
 description: |
-  The obvious are all around us,
-  nut they might not be obvious, even to ourselves.
-  
-  Here's why the obvious must not be dismissed.
+  One day [Shizuo Kakutani][kakutani] was teaching a class at [Yale][yale].  
+  He wrote down a lemma on the blackboard and announced
+  that the proof was obvious.  
+  One student timidly raised his hand and said that
+  it wasn't obvious to him.
+
+  _Could Kakutani explain?_
+
+  [kakutani]: https://en.wikipedia.org/wiki/Shizuo_Kakutani
+  [yale]:                   https://www.yale.edu/  
 date: 2024-01-03 23:00:00
 ---
 
@@ -56,5 +62,6 @@ You can attempt it below:
 ::
 
 
-[kakutani]: https://en.wikipedia.org/wiki/Shizuo_Kakutani
-[riemann-zeta-function]: /math/2023-02-riemann-zeta-properties
+[kakutani]:               https://en.wikipedia.org/wiki/Shizuo_Kakutani
+[riemann-zeta-function]:  /math/2023-02-riemann-zeta-properties
+[yale]:                   https://www.yale.edu/  
