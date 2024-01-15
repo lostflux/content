@@ -58,7 +58,7 @@ and $\zeta$ has a pole[^pole].
 ```math
 \begin{aligned}
 \zeta(s) &= \sum_{n=1}^\infty \frac{1}{n^s}
-= \frac{1}{\Gamma(s)} \int_0^\infty \frac{x^{s-1}}{e^x - 1} \,\dd x
+= \frac{1}{\Gamma(s)} \int\limits_0^\infty \frac{x^{s-1}}{e^x - 1} \,\d x
 \end{aligned}
 ```
 
@@ -67,7 +67,7 @@ continuation of factorials to non-integral points.
 
 ```math
 \begin{aligned}
-\Gamma(s) &= \int_0^\infty t^{s-1} e^{-t} \, \dd t
+\Gamma(s) &= \int\limits_0^\infty t^{s-1} e^{-t} \, \d t
 \end{aligned}
 ```
 
@@ -75,8 +75,8 @@ continuation of factorials to non-integral points.
 ---
 title: side quest
 ---
-Show that $\displaystyle \sum_{n=1}^\infty \frac{1}{n^s}$ and 
-$\displaystyle \frac{1}{\Gamma(s)} \int_0^\infty \frac{x^{s-1}}{e^x - 1} \,\dd x$
+Show that $\displaystyle \sum_{n=1}^\infty \frac{1}{n^s}$ and
+$\displaystyle \frac{1}{\Gamma(s)} \int\limits_0^\infty \frac{x^{s-1}}{e^x - 1} \,\d x$
 are indeed equivalent.
 
 Here's some further context about [gamma extensions][gamma-func]
@@ -120,11 +120,11 @@ by equating the two equations at $s = 1$;
 \zeta(1) =  \sum_{n=1}^\infty \frac{1}{n} &= \prod_{p \text{ prime}} \frac{1}{1 - \frac{1}{p}},
 \end{aligned}
 ```
+
 where $\displaystyle  \sum_{n=1}^\infty \frac{1}{n}$
 is the [harmonic series][harmonic-series] that diverges to infinity.
 Thus, the product must also diverge to infinity,
 which implies an infinite number of terms terms in the product that are greater than $1$.
-
 
 ::alert
 ---
@@ -144,7 +144,6 @@ Therefore, $N$ is either **prime** or **divisible by a prime greater than $p$**,
 which contradicts the fact that we picked $p$ to be the largest possible such prime.
 
 ::
-
 
 ### Locality of Primes
 
@@ -171,9 +170,6 @@ $\displaystyle \Pi_0(x)~=~\frac{1}{2} \parens{ \sum_{p^n < x} \frac{1}{n} + \sum
 Riemann then showed that the zeta zeroes can be used to very accurately
 approximate the locality of primes.
 [Here's a nice discussion of the consequences][riemann-consequence].
-
-
-
 
 [gamma-func]:           /math/2023-01-gamma-properties
 [abs-convergence]:      https://en.wikipedia.org/wiki/Absolute_convergence

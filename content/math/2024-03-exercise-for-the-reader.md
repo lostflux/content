@@ -14,9 +14,9 @@ description: |
 date: 2024-01-03 23:00:00
 ---
 
-One day [Shizuo Kakutani][kakutani] was teaching a class at Yale.  
+One day [Shizuo Kakutani][kakutani] was teaching a class at [Yale][yale].
 He wrote down a lemma on the blackboard and announced
-that the proof was obvious.  
+that the proof was obvious.
 One student timidly raised his hand and said that
 it wasn't obvious to him.
 
@@ -39,29 +39,5 @@ For the proof, the author had written:
 
 _The author of this 1941 paper was Kakutani._
 
----
-
-::alert
----
-title: side quest
-type: warning
----
-
-$\zeta$ is the [riemann zeta function][riemann-zeta-function].
-In $1859$, Riemann unqittingly omitted a proof of his important hypothesis
-about the theorem because it would not fit in the margins of his paper.
-You can attempt it below:
-
-- Show that $\zeta(s)$ has zeros of order $1$ at the
-  even negative integers.
-- Show that the only other zeros are such that
-  $0 \le \Re(s) \le 1$.
-- Prove that the zeros of $\zeta$ actually have $\Re(s) = \frac{1}{2}$.  
-  _\[You can ask your professors or friends for a hint on that one\]_
-
-::
-
-
 [kakutani]:               https://en.wikipedia.org/wiki/Shizuo_Kakutani
-[riemann-zeta-function]:  /math/2023-02-riemann-zeta-properties
 [yale]:                   https://www.yale.edu/  

@@ -9,7 +9,7 @@ description: |
   ```math
   \begin{aligned}
     \Gamma \;\colon \CC &\to \CC \\
-    s &\mapsto \int_0^\infty t^{s-1} e^{-t} \, \dd t
+    s &\mapsto \int\limits_0^\infty t^{s-1} e^{-t} \, \d t
   \end{aligned}
   ```
   
@@ -43,7 +43,7 @@ The Gamma function is defined as follows:
 ```math
 \begin{aligned}
 \Gamma \;\colon \CC &\to \CC \\ \\
-\Gamma(s) &= \int_0^\infty t^{s-1} e^{-t} \, \dd t
+\Gamma(s) &= \int\limits_0^\infty t^{s-1} e^{-t} \, \d t
 \end{aligned}
 ```
 
@@ -71,9 +71,9 @@ The integral has a surprisingly simple simplification:
   
 ```math
 \begin{aligned}
-\Gamma(1) &= \int_0^\infty t^{1-1} e^{-t} \, \dd t \\
+\Gamma(1) &= \int\limits_0^\infty t^{1-1} e^{-t} \, \d t \\
 
-&= \int_0^\infty e^{-t} \, \dd t \;\; \text{(since $t^0 = 1$)} \\
+&= \int\limits_0^\infty e^{-t} \, \d t \;\; \text{(since $t^0 = 1$)} \\
 
 &= \biggl [ -e^{-t} \biggr ]_0^\infty \\
 
@@ -94,7 +94,7 @@ Revisit the definition of $\Gamma$, applied to $n+1$:
 
 ```math
 \begin{aligned}
-\Gamma(n+1) &= \int_0^\infty t^{n} e^{-t} \, \dd t \\
+\Gamma(n+1) &= \int\limits_0^\infty t^{n} e^{-t} \, \d t \\
 \end{aligned}
 ```
 
@@ -102,27 +102,27 @@ This integral can be simplified using the rule for integration by parts:
 
 ```math
 \begin{aligned}
-\int u \, \dd v = uv - \int v \, \dd u
+\int u \, \d v = uv - \int v \, \d u
 \end{aligned}
 ```
 
-Take $u = t^n$ and $\dd v = e^{-t} \, \dd t$; then:
+Take $u = t^n$ and $\d v = e^{-t} \, \d t$; then:
 
 ```math
 \begin{aligned}
-\dd u &= \frac{\dd}{\dd t} t^n = n t^{n-1} \\
-v &= \int e^{-t} \, \dd t = -e^{-t} \\ \\
+\d u &= \frac{\d}{\d t} t^n = n t^{n-1} \\
+v &= \int e^{-t} \, \d t = -e^{-t} \\ \\
 
 \mathrm{Thus,} \\ \\
 
-\Gamma(n+1) &= \int_0^\infty t^{n} e^{-t} \, \dd t \\
-&= \int_0^\infty \underbrace{t^n}_{u} \cdot \underbrace{e^{-t}}_{\dd v} \, \dd t \\
+\Gamma(n+1) &= \int\limits_0^\infty t^{n} e^{-t} \, \d t \\
+&= \int\limits_0^\infty \underbrace{t^n}_{u} \cdot \underbrace{e^{-t}}_{\d v} \, \d t \\
 &= \underbrace{\biggl [ -t^n e^{-t} \biggr ]_0^\infty}_{uv}
-- \int_0^\infty \underbrace{nt^{n-1}}_{v} \cdot \underbrace{\left(- e^{-t}\right)}_{\dd u}  \, \dd t\\ \\
+- \int\limits_0^\infty \underbrace{nt^{n-1}}_{v} \cdot \underbrace{\left(- e^{-t}\right)}_{\d u}  \, \d t\\ \\
 
-&= (0 - 0) - \int_0^\infty -nt^{n-1} e^{-t} \, \dd t \\
+&= (0 - 0) - \int\limits_0^\infty -nt^{n-1} e^{-t} \, \d t \\
 
-&= n \int_0^\infty t^{n-1} e^{-t} \, \dd t \\ \\
+&= n \int\limits_0^\infty t^{n-1} e^{-t} \, \d t \\ \\
 
 &= n \cdot \Gamma(n) \\
 \end{aligned}
@@ -183,7 +183,7 @@ But what happens when we plug in a fraction, say $\displaystyle \frac{3}{2}$?
 \begin{aligned}
 \Gamma \left( \frac{3}{2} \right) &= \Gamma(\frac{1}{2} + 1) \\
 &= \frac{1}{2} \cdot \Gamma(\frac{1}{2}) \\
-&= \frac{1}{2} \int_0^\infty t^{-\frac{1}{2}} e^{-t} \, \dd t \\
+&= \frac{1}{2} \int\limits_0^\infty t^{-\frac{1}{2}} e^{-t} \, \d t \\
 \end{aligned}
 ```
 
@@ -192,8 +192,8 @@ by substituting $t = x^2$:
 
 ```math
 \begin{aligned}
-\Gamma\left(\frac{3}{2}\right) &= \frac{1}{2} \int_0^\infty t^{-\frac{1}{2}} e^{-x^2} \cdot 2t^\frac{1}{2} \, \dd x \\
-&= \int_0^\infty e^{-x^2} \, \dd x \\
+\Gamma\left(\frac{3}{2}\right) &= \frac{1}{2} \int\limits_0^\infty t^{-\frac{1}{2}} e^{-x^2} \cdot 2t^\frac{1}{2} \, \d x \\
+&= \int\limits_0^\infty e^{-x^2} \, \d x \\
 \end{aligned}
 ```
 
@@ -201,20 +201,20 @@ This is a familiar integral, known as the [Gaussian integral][gaussian-integral]
 
 ```math
 \begin{aligned}
-I(a) &= \int_a^a e^{-x^2} \, \dd x \\ \\
-I(\infty) &= \int_\infty^\infty e^{-x^2} \, \dd x \\ \\
+I(a) &= \int\limits_a^a e^{-x^2} \, \d x \\ \\
+I(\infty) &= \int\limits_\infty^\infty e^{-x^2} \, \d x \\ \\
 
-I^2(\infty) &= \left( \int_{-\infty}^\infty e^{-x^2} \, \dd x \right) \cdot \left( \int_{-\infty}^\infty e^{-y^2} \, \dd y \right) \\
+I^2(\infty) &= \left( \int\limits_{-\infty}^\infty e^{-x^2} \, \d x \right) \cdot \left( \int\limits_{-\infty}^\infty e^{-y^2} \, \d y \right) \\
 
-&= \int_{-\infty}^\infty \int_{-\infty}^\infty e^{-(x^2 + y^2)} \, \dd x \, \dd y \\
+&= \int\limits_{-\infty}^\infty \int\limits_{-\infty}^\infty e^{-(x^2 + y^2)} \, \d x \, \d y \\
 
-&= \int_{-\infty}^\infty \int_{-\infty}^\infty e^{-r^2} \, r\,  \dd r \, \dd \theta \\
+&= \int\limits_{-\infty}^\infty \int\limits_{-\infty}^\infty e^{-r^2} \, r\,  \d r \, \d \theta \\
 
-&= \int_0^{2\pi} \int_0^\infty e^{-r^2} \, r\,  \dd r \, \dd \theta \\
+&= \int\limits_0^{2\pi} \int\limits_0^\infty e^{-r^2} \, r\,  \d r \, \d \theta \\
 
-&= 2\pi \int_0^\infty e^{-r^2} \, r\,  \dd r \\
+&= 2\pi \int\limits_0^\infty e^{-r^2} \, r\,  \d r \\
 
-&= 2\pi \int_{-\infty}^0 \frac{1}{2} e^{u} \, \dd u \;\; \text{(substituting $u = -r^2$)} \\
+&= 2\pi \int\limits_{-\infty}^0 \frac{1}{2} e^{u} \, \d u \;\; \text{(substituting $u = -r^2$)} \\
 
 &= \pi \biggl [ e^u \biggr ]_{-\infty}^0 \\
 
@@ -229,7 +229,7 @@ and the function is [even][even-function]:
 
 ```math
 \begin{aligned}
-\Gamma\left(\frac{3}{2}\right) &= \frac{1}{2} \int_{-\infty}^\infty e^{-x^2} \, \dd x \\
+\Gamma\left(\frac{3}{2}\right) &= \frac{1}{2} \int\limits_{-\infty}^\infty e^{-x^2} \, \d x \\
 &= \frac{1}{2} \cdot \sqrt{I^2(\infty)} \\
 &= \frac{\sqrt{\pi}}{2} \\
 \end{aligned}
@@ -267,9 +267,11 @@ the integral has to be computed or simplified directly for each case.
 $\Gamma$ has a [meromorphic](https://en.wikipedia.org/wiki/Meromorphic_function)
 extension to the complex numbers, with simple poles at the non-positive integers
 and $0$. It is defined with the same rules and the relation
+
 ```math
 \displaystyle \Gamma(s+1) = s \Gamma(s)
 ```
+
 holds for all complex numbers $s$.
 For example;
 
@@ -284,7 +286,6 @@ Various values of $\Gamma$ are tabulated [here][gamma-selected-values].
 For some useful applications of $\Gamma$ in the Riemann zeta function,
 see [this post][riemann-hypothesis].
 
-[analytic-continuation]:  https://en.wikipedia.org/wiki/Analytic_continuation
 [riemann-hypothesis]:     /math/2023-02-riemann-zeta-properties
 [induction]:              https://en.wikipedia.org/wiki/Mathematical_induction
 [gaussian-integral]:      https://en.wikipedia.org/wiki/Gaussian_integral

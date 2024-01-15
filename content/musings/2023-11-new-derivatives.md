@@ -75,8 +75,6 @@ The diagrams and the whole business that I got the Nobel Prize for
 came from that piddling around with the wobbling plate.
 ::
 
----
-
 One needs a certain amount of privilege or inconsequnce
 to be able to take time off from their required work,
 and this method will not necessarily work for them.
