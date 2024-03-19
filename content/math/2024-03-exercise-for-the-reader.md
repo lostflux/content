@@ -19,8 +19,7 @@ He wrote down a lemma on the blackboard and announced
 that the proof was obvious.
 One student timidly raised his hand and said that
 it wasn't obvious to him.
-
-_Could Kakutani explain?_
+**Could Kakutani explain?**
 
 After several moments' thought, Kakutani realized that he could not himself prove the lemma. He apologized, and said that he would report back at their next class meeting.
 
@@ -37,7 +36,7 @@ For the proof, the author had written:
 
 > "Exercise for the reader."
 
-_The author of this 1941 paper was Kakutani._
+**The author of this 1941 paper was Kakutani.**
 
 [kakutani]:               https://en.wikipedia.org/wiki/Shizuo_Kakutani
 [yale]:                   https://www.yale.edu/  

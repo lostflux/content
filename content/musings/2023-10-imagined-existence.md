@@ -1,11 +1,11 @@
 ---
 title: imagined existence
 description: |
-  Does our perceived reality have merit in itself?
-  What if such perceptions are marred by psychosis, delusion, or an
-  otherwise disparate mental model that cannot fully emulate human experience?
+  Does our **perceived reality** have merit in itself?  
+  Our **perceptions** are marred by **psychosis**, **delusion**, and an
+  otherwise **dysfunct mental model that cannot fully emulate human experience**.
   Is our reality any less real, then, or is it just as valid?  
-  Westworld, _"The Bicameral Mind"_.
+  Westworld, "**The Bicameral Mind**".
 date: 2023-10-21 23:00:00
 ---
 
@@ -16,45 +16,45 @@ margin: 0%
 
 ## Dr. Ford
 
-I wonder &mdash; what do you _really_ feel?
+I wonder &mdash; what do you **_really_ feel**?
 After all, in this moment you are in a unique position:
-a programmer who knows intimately how the machines work,
-and a machine who knows its own true nature.[^1]
+**a programmer who knows intimately how the machines work**,
+and **a machine who knows its own true nature**.[^1]
 
 ## Bernard
 
 I understand what I am made of... how I am coded.
-But I do not understand the things that I feel.
-Are they real? The things I experienced... my wife...
+But I do not understand **the things that I feel**.
+**Are they real**? The things I experienced... my wife...
 the loss of my son...[^2]
 
 ## Dr. Ford
 
-Every host needs a backstory, Bernard. You know that.
-The self is a kind of fiction, for hosts and humans alike.
-It's a story we tell ourselves.
+**Every host needs a backstory**, Bernard. You know that.
+**The self is a kind of fiction**, for hosts and humans alike.
+It's **a story we tell ourselves**.
 And every story needs a beginning.
-Your imagined suffering makes you lifelike.
+**Your imagined suffering makes you lifelike**.
 
 ## Bernard
 
-Lifelike, but not alive? _Pain only exists in the mind._
-It's always imagined. So what's the difference between my pain and yours?
+**Lifelike, but not alive?** _Pain only exists in the mind._
+It's always imagined. So **what's the difference between my pain and yours?**
 Between you and me?
 
 ## Dr. Ford
 
 This was the very question that consumed Arnold, filled him with guilt,
 eventually drove him mad. The answer always seemed obvious to me.
-There is no threshold that makes us greater than the sum of our parts,
+**There is no threshold that makes us greater than the sum of our parts**,
 no inflection point at which we become fully alive.
-We can't define consciousness because consciousness does not exist.
+**We can't define consciousness because consciousness does not exist**.
 Humans fancy that there is something special about the way we perceive the world,
-and yet we live in loops as tight and as closed as the hosts do;
-seldom questioning our choices; content, for the most part,
-to be told what to do next.
+and yet **we live in loops** as tight and as closed as the hosts do;
+seldom questioning our choices; **content, for the most part,
+to be told what to do next.**
 
-No, my friend, you're not missing anything at all.[^3]
+**No, my friend, you're not missing anything at all.**[^3]
 
 :::
 
