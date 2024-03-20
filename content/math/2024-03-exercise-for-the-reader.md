@@ -1,16 +1,15 @@
 ---
 title: exercise for the reader
 description: |
-  One day [Shizuo Kakutani][kakutani] was teaching a class at [Yale][yale].  
+  One day [Shizuo Kakutani][kakutani] was teaching a class at [Yale][yale].
   He wrote down a lemma on the blackboard and announced
-  that the proof was obvious.  
+  that the proof was obvious.
   One student timidly raised his hand and said that
-  it wasn't obvious to him.
-
-  _Could Kakutani explain?_
+  it wasn't obvious to him.  
+  **Could Kakutani explain?**
 
   [kakutani]: https://en.wikipedia.org/wiki/Shizuo_Kakutani
-  [yale]:                   https://www.yale.edu/  
+  [yale]:                   https://www.yale.edu/
 date: 2024-01-03 23:00:00
 ---
 
