@@ -100,7 +100,7 @@ is nonexistent, which needs to change.
 ## The AI Industry’s “Not My Problem” Stance
 
 ![
-  Keren Hao, AI reporter,
+  Karen Hao, AI reporter,
   <br>
   Hao calls for better energy sustainability in AI.
 ](karen-hao.jpeg){style="width: 40%; float: right; margin: 2em;"}
