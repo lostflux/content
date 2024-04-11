@@ -6,13 +6,13 @@ date: 2024-01-18 23:00:00
 ---
 
 
+![The past is always tense, the future perfect.](zadie-smith.jpg)
+
 ::prose-blockquote
 ---
 name: Zadie Smith
 link: https://www.newyorker.com/contributors/zadie-smith
 ---
-
-![The past is always tense, the future perfect.](zadie-smith.jpg)
 
 I think of myself as somebody not at home.  
 Not at home anywhere, not at home ever.  
