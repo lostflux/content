@@ -18,7 +18,7 @@ description: |
   Can it die?  
   _Where did it come from?_  :br :br
   **_How could there be nothing.  
-  And then, suddenly, something?_**[^nothingness]
+  And then, suddenly, something?_**
 
   ::
 date: 2023-09-19 23:00:00

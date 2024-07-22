@@ -12,8 +12,9 @@ margin: 35%
 
 ::prose-blockquote
 ---
-name: The Man in Black, Westworld
-link: https://www.hbo.com/westworld
+author:
+  name: The Man in Black, Westworld
+  link: https://www.hbo.com/westworld
 ---
 
 It's beautifully done, really.

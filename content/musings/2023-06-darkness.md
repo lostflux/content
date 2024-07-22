@@ -12,13 +12,13 @@ margin: 20%
 
 ::prose-blockquote
 ---
-name: Constant
-link: https://foundation.fandom.com/wiki/Brother_Constant#
+author:
+  name: Constant
+  link: https://foundation.fandom.com/wiki/Brother_Constant
 ---
 In the name of the [Galactic Spirit][galactic-spirit], I submit myself, a holy brother of [The Foundation][the-foundation], to its will.
 Let my eyes, which are the Spirit's eyes, look only forward to the future which the Spirit has divined.
-Let my heart, which is the Spirit's heart, join its humble beating with the great rhythm of the Spirit.
-
+Let my heart, which is the Spirit's heart, join its humble beating with the great rhythm of the Spirit.  :br :br
 _**Guide me through the darkness,
 and together we will shorten the darkness.**_
 ::
@@ -29,8 +29,9 @@ and together we will shorten the darkness.**_
 
 ::prose-blockquote
 ---
-name: Day
-link: https://foundation.fandom.com/wiki/Brother_Day
+author:
+  name: Day
+  link: https://foundation.fandom.com/wiki/Brother_Day
 ---
 Is that... a _prayer_?  
 Is a god who presides over killers truly a god?

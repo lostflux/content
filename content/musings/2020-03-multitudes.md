@@ -9,13 +9,16 @@ date: 2020-04-03 23:00:00
 
 ::prose-blockquote
 ---
-name: Walt Whitman, Song of Myself
-link: https://www.penguin.co.uk/articles/2020/09/walt-whitman-leaves-of-grass-i-contain-multitudes-twitter-meme
+author:
+  name: Walt Whitman
+  link: https://www.poetryfoundation.org/poets/walt-whitman
+  writing:
+    name: Song of Myself
+    link: https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version
 ---
 
 Do I contradict myself?  
-Very well then, I contradict myself.  
-
+Very well then, I contradict myself.  :br :br
 I am vast, I contain multitudes.
 
 ::

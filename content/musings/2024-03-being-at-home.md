@@ -10,8 +10,9 @@ date: 2024-01-18 23:00:00
 
 ::prose-blockquote
 ---
-name: Zadie Smith
-link: https://www.newyorker.com/contributors/zadie-smith
+author:
+  name: Zadie Smith
+  link: https://www.newyorker.com/contributors/zadie-smith
 ---
 
 I think of myself as somebody not at home.  

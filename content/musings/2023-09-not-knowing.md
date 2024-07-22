@@ -17,8 +17,12 @@ margin: 20%
 
 ::prose-blockquote
 ---
-name: Socrates, Apology 21d
-link: https://en.wikipedia.org/wiki/Socrates
+author:
+  name: Socrates
+  link: https://plato.stanford.edu/entries/socrates/
+  writing:
+    name: Apology 21d
+    link: https://chs.harvard.edu/primary-source/plato-the-apology-of-socrates-sb/
 ---
 
 That which I do not know,  

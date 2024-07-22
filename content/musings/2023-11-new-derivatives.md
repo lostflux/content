@@ -24,13 +24,6 @@ author:
     link: https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/
 ---
 
-<!-- ::prose-blockquote
----
-author:
-  name: Richard Feynman
-  link: https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/
---- -->
-
 So I got this new attitude.
 Now that I am burned out and I'll never accomplish anything,
 I've got this nice position at the university teaching classes which I rather enjoy,
