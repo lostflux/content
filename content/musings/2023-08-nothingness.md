@@ -1,14 +1,26 @@
 ---
 title: nothingness
 description: |
+  ::prose-blockquote
+  ---
+  author:
+    name: Gaal Dornick
+    link: https://foundation.fandom.com/wiki/Gaal_Dornick
+    writing:
+      name: Foundation and Empire
+      link: https://asimov.fandom.com/wiki/Foundation_and_Empire
+  ---
+
+  When I was a child, I used to ask my mother endless questions.  :br :br
   What happens after we die?  
   Where does our energy go?  
   And what about the universe?  
-  Can it die?
-  _Where did it come from?_
+  Can it die?  
+  _Where did it come from?_  :br :br
+  **_How could there be nothing.  
+  And then, suddenly, something?_**[^nothingness]
 
-  _**How could there be nothing.  
-  And then, suddenly, something?**_
+  ::
 date: 2023-09-19 23:00:00
 ---
 
@@ -19,22 +31,26 @@ margin: 10%
 
 ::prose-blockquote
 ---
-name: Gaal Dornick
-link: https://foundation.fandom.com/wiki/Gaal_Dornick
+author:
+  name: Gaal Dornick
+  link: https://foundation.fandom.com/wiki/Gaal_Dornick
+  writing:
+    name: Foundation and Empire
+    link: https://asimov.fandom.com/wiki/Foundation_and_Empire
 ---
 
-When I was a child, I used to ask my mother endless questions.
-
+When I was a child, I used to ask my mother endless questions.  :br :br
 What happens after we die?  
 Where does our energy go?  
 And what about the universe?  
 Can it die?  
-_Where did it come from?_
-
-_How could there be nothing.  
-And then, suddenly, something?_[^nothingness]
+_Where did it come from?_  :br :br
+**_How could there be nothing.  
+And then, suddenly, something?_**[^nothingness]
 
 ::
+
+<!-- more -->
 
 :::
 

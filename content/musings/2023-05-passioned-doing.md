@@ -9,14 +9,12 @@ margin: 30%
 ---
 
 > I've got to ask&mdash;  
-> _What made you pick this line of work?_
+> _**What made you pick this line of work?**_
 
 I read a lot of biographies about successful people.  
-Do you know what they all have in common?
-
-**They do what they love**.
-
-I figured I should too.
+Do you know what they all have in common?  :br :br
+**_They do what they love_**.  :br :br
+**I figured I should too**.
 ::
 
 <!-- more -->

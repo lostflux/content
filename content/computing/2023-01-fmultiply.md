@@ -82,6 +82,46 @@ and [`std::iota`](https://en.cppreference.com/w/cpp/algorithm/iota) in C++.
 If you create an infinite `list` in Python, **your program will crash**.
 ::
 
+::alert
+---
+type: success
+---
+Haskell's list mechanics are more in line with [generators](https://en.wikipedia.org/wiki/Generator_(computer_programming))
+in other programming languages, such as [`range`](https://docs.python.org/3/library/stdtypes.html#range) in Python
+and [`std::iota`](https://en.cppreference.com/w/cpp/algorithm/iota) in C++.  
+If you create an infinite `list` in Python, **your program will crash**.
+::
+
+::alert
+---
+type: error
+---
+Haskell's list mechanics are more in line with [generators](https://en.wikipedia.org/wiki/Generator_(computer_programming))
+in other programming languages, such as [`range`](https://docs.python.org/3/library/stdtypes.html#range) in Python
+and [`std::iota`](https://en.cppreference.com/w/cpp/algorithm/iota) in C++.  
+If you create an infinite `list` in Python, **your program will crash**.
+::
+
+::alert
+---
+type: warning
+---
+Haskell's list mechanics are more in line with [generators](https://en.wikipedia.org/wiki/Generator_(computer_programming))
+in other programming languages, such as [`range`](https://docs.python.org/3/library/stdtypes.html#range) in Python
+and [`std::iota`](https://en.cppreference.com/w/cpp/algorithm/iota) in C++.  
+If you create an infinite `list` in Python, **your program will crash**.
+::
+
+::alert
+---
+type: critical
+---
+Haskell's list mechanics are more in line with [generators](https://en.wikipedia.org/wiki/Generator_(computer_programming))
+in other programming languages, such as [`range`](https://docs.python.org/3/library/stdtypes.html#range) in Python
+and [`std::iota`](https://en.cppreference.com/w/cpp/algorithm/iota) in C++.  
+If you create an infinite `list` in Python, **your program will crash**.
+::
+
 ## Approach 2: Tail Recursion
 
 [Approach 1](#approach-1-exploiting-laziness) is only efficient because Haskell is lazy by design.
