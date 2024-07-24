@@ -13,15 +13,7 @@ Nobel laureate Louise Glück (April 22, 1943–October 13, 2023) captures the es
 
 ---
 
-<iframe
-  width="100%"
-  style="aspect-ratio: 16/9"
-  src="https://www.youtube.com/embed/8waoQWf9aL8?si=O0PXJNN9DohRExwA"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen
-/></iframe>
+![The Wild Iris](https://www.youtube.com/embed/8waoQWf9aL8?si=O0PXJNN9DohRExwA){centered}
 
 ---
 

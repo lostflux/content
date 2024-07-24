@@ -17,6 +17,8 @@ AI's capacity to analyze complex datasets and perform
 in high-frequency trading, or **optimize energy consumption** in
 large data centers showcases this transformative potential.
 
+
+
 However, **a critical yet overlooked issue** lies beneath this mask:
 **the significant environmental impact of training large AI models**.
 The training process uses **expansive datasets** and
@@ -24,12 +26,8 @@ The training process uses **expansive datasets** and
 **require immense computational power**.
 
 ![
-  Meta's data center in _Odense_, Denmark.
-  <br>
-  Such data centers pack enough compute
-  to allow companies to train large AI models,
-  they **also have significant carbon footprints**.
-](odense-data-center.webp)
+  A data center in _Odense_, Denmark.
+](odense-data-center.webp){centered}
 
 This issue highlights the multifaceted problem of unsustainable energy
 [consumption and a layer of inequality when only a few companies can
@@ -54,11 +52,10 @@ OpenAI’s CEO, recently expressed his intent to raise trillions of dollars
 to procure more computational power for training AI models[^chips-chips-chips].
 
 ![
-  OpenAI's CEO, Sam Altman.
-  <br>
-  Altman wants to raise trillions of dollars
+  OpenAI CEO, Sam Altman,
+  wants to raise trillions of dollars
   for training AI models.
-](sama.webp)
+](sama.webp){centered}
 
 The University of Massachusetts at Amherst conducted a study which found that that
 **training a single AI model could consume** more than 626,000 **kWh**
@@ -103,7 +100,7 @@ is nonexistent, which needs to change.
   Karen Hao, AI reporter,
   <br>
   Hao calls for better energy sustainability in AI.
-](karen-hao.jpeg){style="width: 40%; float: right; margin: 2em;"}
+](karen-hao.jpeg){inline style="width: 40%; float: right; margin: 2em;"}
 
 Worse yet, the AI industry prioritizes short-term gains in model performance
 (accuracy) over environmental sustainability, adopting a "not my problem"
@@ -126,7 +123,7 @@ Furthermore, the AI sector must embrace "Green AI," advocating for research that
   regulations across borders.
   <br>
   Any regulatory body will likely face similar issues.
-](gdpr.jpeg)
+](gdpr.jpeg){centered}
 
 The transition to efficient AI also hinges on technological innovation: companies must intentionally seek to create more efficient models, not just more accurate ones. This very closely links to consumer influence. If the user only cares about a model’s accuracy, companies will do their best to improve it. However, users caring about other metrics, such as energy efficiency would force companies to attend to their performance on those other metrics.
 
