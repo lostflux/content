@@ -11,11 +11,7 @@ A handful of times a lifetime, if you are lucky, an experience opens a trapdoor 
 
 Nobel laureate Louise Glück (April 22, 1943–October 13, 2023) captures the essence of such experiences, the way they sober us to being mortal and to being alive, with an image of piercing originality in the title poem of her 1992 collection [The Wild Iris](https://www.themarginalian.org/).
 
----
-
 ![The Wild Iris](https://www.youtube.com/embed/8waoQWf9aL8?si=O0PXJNN9DohRExwA){centered}
-
----
 
 At the end of my suffering  
 there was a door.  
