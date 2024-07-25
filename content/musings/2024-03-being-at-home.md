@@ -6,7 +6,7 @@ date: 2024-01-18 23:00:00
 ---
 
 
-![The past is always tense, the future perfect.](zadie-smith.jpg)
+![The past is always tense, the future perfect.](zadie-smith.jpg){centered}
 
 ::prose-blockquote
 ---
