@@ -17,6 +17,7 @@ There are many tropes to showing up, exemplified by the following rhetoric:
 - _**Show up as the _real_ you!**_
 - _**I showed up for a year and look at me now!**_
 - _**I am not [\[insert fancy title\]]{style="font-style: normal;"} yet, but I would imagine it as simple as showing up!**_
+- This is unemphasized.
 - ...
 
 ---

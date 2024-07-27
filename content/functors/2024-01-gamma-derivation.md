@@ -282,6 +282,16 @@ including:
 
 - And many more, left as an [exercise to the reader][exercise-to-reader].
 
+## What's the Problem?
+
+Than
+
+## What's the Problem?
+
+This
+
+## What's the Problem?
+
 [euler-gamma-function]: https://web.archive.org/web/20160303173538/http://home.sandiego.edu/%7Elangton/eg.pdf
 [bernoulli]: https://en.wikipedia.org/wiki/Johann_Bernoulli
 [goldbach]: https://en.wikipedia.org/wiki/Christian_Goldbach

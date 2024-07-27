@@ -18,7 +18,6 @@ in high-frequency trading, or **optimize energy consumption** in
 large data centers showcases this transformative potential.
 
 
-
 However, **a critical yet overlooked issue** lies beneath this mask:
 **the significant environmental impact of training large AI models**.
 The training process uses **expansive datasets** and
@@ -97,10 +96,10 @@ is nonexistent, which needs to change.
 ## The AI Industry’s “Not My Problem” Stance
 
 ![
-  Karen Hao, AI reporter,
+  Karen Hao, AI reporter.
   <br>
   Hao calls for better energy sustainability in AI.
-](karen-hao.jpeg){inline style="width: 40%; float: right; margin: 2em;"}
+](karen-hao.jpeg){inline style="width: 50%; float: right; margin: 0.5em;"}
 
 Worse yet, the AI industry prioritizes short-term gains in model performance
 (accuracy) over environmental sustainability, adopting a "not my problem"
