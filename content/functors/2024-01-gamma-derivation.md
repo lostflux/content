@@ -298,9 +298,9 @@ This
 [euler]: https://en.wikipedia.org/wiki/Leonhard_Euler
 [legendre]: https://en.wikipedia.org/wiki/Adrien-Marie_Legendre
 [beta-distribution]: https://en.wikipedia.org/wiki/Beta_distribution
-[exercise-to-reader]: /math/2024-03-exercise-for-the-reader
-[gamma-extensions]: /math/2023-01-gamma-properties
-[riemann-zeta-function]: /math/2023-02-riemann-zeta-properties
+[exercise-to-reader]: /functors/2024-03-exercise-for-the-reader
+[gamma-extensions]: /functors/2023-01-gamma-properties
+[riemann-zeta-function]: /functors/2023-02-riemann-zeta-properties
 [analytic-continuation]: https://en.wikipedia.org/wiki/Analytic_continuation
 
 [^pole]: A pole of a function $f$ is a point in the domain of $f$ where

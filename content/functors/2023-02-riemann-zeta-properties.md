@@ -171,7 +171,7 @@ Riemann then showed that the zeta zeroes can be used to very accurately
 approximate the locality of primes.
 [Here's a nice discussion of the consequences][riemann-consequence].
 
-[gamma-func]:           /math/2023-01-gamma-properties
+[gamma-func]:           /functors/2023-01-gamma-properties
 [abs-convergence]:      https://en.wikipedia.org/wiki/Absolute_convergence
 [zeta-zeroes]:          http://www.plouffe.fr/simon/constants/zeta100.html
 [riemann-hypothesis]:   https://www.claymath.org/millennium/riemann-hypothesis/

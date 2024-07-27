@@ -17,7 +17,7 @@ description: |
   [analytic continuation][analytic-continuation]
   of the factorial function?
 
-  [riemann-hypothesis]:    /math/2023-02-riemann-zeta-properties
+  [riemann-hypothesis]:    /functors/2023-02-riemann-zeta-properties
   [analytic-continuation]: https://en.wikipedia.org/wiki/Analytic_continuation
 
 date: 2023-12-29 23:00:00
@@ -286,7 +286,7 @@ Various values of $\Gamma$ are tabulated [here][gamma-selected-values].
 For some useful applications of $\Gamma$ in the Riemann zeta function,
 see [this post][riemann-hypothesis].
 
-[riemann-hypothesis]:     /math/2023-02-riemann-zeta-properties
+[riemann-hypothesis]:     /functors/2023-02-riemann-zeta-properties
 [induction]:              https://en.wikipedia.org/wiki/Mathematical_induction
 [gaussian-integral]:      https://en.wikipedia.org/wiki/Gaussian_integral
 [even-function]:          https://en.wikipedia.org/wiki/Even_and_odd_functions
