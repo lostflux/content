@@ -1,5 +1,5 @@
 ---
-title: exercise for the reader
+title: exercise to the reader
 description: |
   One day [Shizuo Kakutani][kakutani] was teaching a class at [Yale][yale].
   He wrote down a lemma on the blackboard and announced
@@ -35,7 +35,7 @@ For the proof, the author had written:
 
 > "Exercise for the reader."
 
-**The author of this 1941 paper was Kakutani.**
+**_The author of this 1941 paper was Kakutani._**
 
 [kakutani]:               https://en.wikipedia.org/wiki/Shizuo_Kakutani
 [yale]:                   https://www.yale.edu/  

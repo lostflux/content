@@ -6,41 +6,40 @@ description: |
 date: 2023-07-17 23:00:00
 ---
 
+![We tell ourselves stories in order to \[<i>not</i>\] live.](impostor-syndrome.webp){centered}
 ## Sermon in the Suicide
 
-We tell ourselves stories in order to live.
+::prose-blockquote
+---
+author:
+  name: Joan Didion
+  link: https://www.joandidion.org/
+  writing:
+    name: The White Album
+    link: https://www.joandidion.org/joan-didion-books/the-white-album
+---
 
-::hidden
-  We look for the sermon in the suicide,
-  for the social or moral lesson in the murder of five.
-  We interpret what we see, select the most workable of the multiple choices.
-  We live entirely, especially if we are writers,
-  by the imposition of a narrative line upon disparate images,
-  by the "ideas" with which we have learned to freeze
-  the shifting [phantasmagoria][phantasmagoria] which is our actual experience.
+_**We tell ourselves stories in order to live.**_
+
+We look for the sermon in the suicide,
+for the social or moral lesson in the murder of five.
+We interpret what we see, select the most workable of the multiple choices.
+We live entirely, especially if we are writers,
+by the imposition of a narrative line upon disparate images,
+by the "ideas" with which we have learned to freeze
+the shifting [phantasmagoria][phantasmagoria] which is our actual experience.
+
 ::
 
-:right[&ndash; Joan Didion, [The White Album][the-white-album] ]
+It is often assumed that delusion is mostly in the direction
+of one affirming false positives to themselves,
+shaping their perceived lived experience to suit their expectations
+while the objective reality is less fancy.
 
-<!-- more -->
-
-::left
----
-style: "margin-top: 100px;"
----
-  It is often assumed that delusion is mostly in the direction
-  of one affirming false positives to themselves,
-  shaping their perceived lived experience to suit their expectations
-  while the objective reality is less fancy.
-
-  However, [research shows][impostor-syndrome] that institutional structures
-  may also induce impostor syndrome, especially in members of marginalized communities.
-
-  The stories we tell ourselves might reinforce defeatist beliefs
-  that cripple our [livelihood][livelihood].  
-::
-
-![We tell ourselves stories in order to \[<i>not</i>\] live.](impostor-syndrome.webp)
+However, [research shows][impostor-syndrome] that institutional structures
+may also induce impostor syndrome, especially in members of marginalized communities.
+The stories we tell ourselves might reinforce defeatist beliefs
+that cripple our [livelihood][livelihood].  
 
 ::alert
 ---
@@ -49,12 +48,10 @@ type: warning
 ---
 
 If you experience impostor syndrome, you're not alone.
-
 Look into understanding why you feel that way.
 There are many free resources on the internet that can help you walk through your experiences.
 I recommend [BetterUp][betterup]; they were a great help to me.
 Here's a [great first step][first-step] and a [list of resources][resources].
-
 Your problems will never go away [until you deal with them][problems-foroux].
 ::
 

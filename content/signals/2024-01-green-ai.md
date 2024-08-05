@@ -39,6 +39,11 @@ motivates the needed actions.
 
 ## The Environmental Cost of AI Progress
 
+![
+  Karen Hao, AI reporter.<br>
+  Hao calls for better energy sustainability in AI.
+](karen-hao.jpeg){inline style="width: 50%; float: right; margin: 0.5em;"}
+
 **The sheer scale of the amount of energy needed to train large AI models
 such as Generative Pretrained Transformers (GPT) is astounding**.
 It is estimated that **training a single model can emit as much carbon as five cars**
@@ -49,12 +54,6 @@ The progression from GPT-3 to GPT-4 exemplifies how **rapid advancements** in AI
 **correspond with escalations in environmental costs**. Unsurprisingly, Sam Altman,
 OpenAI’s CEO, recently expressed his intent to raise trillions of dollars
 to procure more computational power for training AI models[^chips-chips-chips].
-
-![
-  OpenAI CEO, Sam Altman,
-  wants to raise trillions of dollars
-  for training AI models.
-](sama.webp){centered}
 
 The University of Massachusetts at Amherst conducted a study which found that that
 **training a single AI model could consume** more than 626,000 **kWh**
@@ -71,6 +70,12 @@ which faced similar concerns when the number of personal
 cars used worldwide increased in the 1950s and early 1960s.
 In 1965, the state of California imposed emission standards on
 all automotive vehicles in an attempt to control the situation[^watson].
+
+![
+  OpenAI CEO, Sam Altman,
+  wants to raise trillions of dollars
+  for training AI models.
+](sama.webp){centered}
 
 In the years since, advances in engineering led to the development of
 more fuel-efficient and, eventually, electric vehicles. At the same time,
@@ -93,13 +98,12 @@ reduce the carbon footprints of their AI models.
 However, who is holding them accountable? Much of the regulatory framework
 is nonexistent, which needs to change.
 
-## The AI Industry’s “Not My Problem” Stance
+## The AI Industry’s Avoidance Stance
 
-![
-  Karen Hao, AI reporter.
-  <br>
+<!-- ![
+  Karen Hao, AI reporter.<br>
   Hao calls for better energy sustainability in AI.
-](karen-hao.jpeg){inline style="width: 50%; float: right; margin: 0.5em;"}
+](karen-hao.jpeg){inline style="width: 50%; float: right; margin: 0.5em;"} -->
 
 Worse yet, the AI industry prioritizes short-term gains in model performance
 (accuracy) over environmental sustainability, adopting a "not my problem"
