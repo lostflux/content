@@ -1,8 +1,9 @@
 ---
 title: existential threats
 description: |
-  > Whatever returns from oblivion  
-  > returns to find a voice.
+  If life transcends death <br>
+  Then I will seek for you there. <br> <br>
+  <em style="font-family: 'Alegreya'">If not, then there too.</em>
 date: 2024-07-27 23:00:00
 draft: true
 ---
@@ -10,15 +11,24 @@ draft: true
 ![
   If life transcends death <br>
   Then I will seek for you there. <br> <br>
-  If not, then there too.
-](lone-ranger-3.jpg){centered}
+  <em style="font-family: 'Alegreya'; font-size: 1.2em;">If not, then there too.</em>
+](lone-ranger.jpg){centered}
 
 We’ve all heard of the _[Fermi paradox][fermi-paradox]_&mdash;the contradiction between
 apparent ease of emergence of life under the right planetary conditions
 and the fact that we know of only one such planet upon which life exists: Earth.
 In the words of [Enrico Fermi][fermi], _**“Where is everybody?”**_
 
-For years, a reasonable answer to the paradox has been to assume that the formation of life is an exceedingly improbable event and occurs so rarely in the universe, despite its immense scale, that the chance of two civilisations chancing upon one-another is very small.
+A common response to the paradox has been the assumption that the
+formation of life is an exceedingly improbable event that occurs so rarely in the universe
+that the chance of two civilisations chancing upon one another is minuscule.
+
+As we learn more about the biochemical processes that underpin life,
+it has increasingly become clear that these processes are not particularly rare,
+and so Fermi’s seemingly simple question continues to linger.
+There are other solutions, of course:
+while the genesis of life is a relatively simple process,
+perhaps the development of intelligence and civilisation, is not?
 
 Yet as we pull back the curtain on the biochemical processes that form the basic building blocks of life, we increasingly find that this is not the case: the chemical processes that may have bootstrapped life are not, in fact, particularly rare. This seems to fly in the face of this solution to the paradox, and so Fermi’s simple question continues to hang in the air like a bad smell.
 
