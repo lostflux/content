@@ -1,12 +1,20 @@
 ---
 title: True Intelligence
 description: |
-  _To let your pain give you what you need.
-  To feel it all.
-  To learn it and everything it has for and against you.
-  **True pain is either the end of your story
-  or the source of unlimited rage and energy
-  to create what you're truly capable of.**_
+  ::prose-blockquote
+  ---
+  author:
+    name: Naval Ravikant
+    link: https://nav.al/
+    writing:
+      name: Twitter and Other Places
+      link: https://x.com/naval/status/1259593847580946432
+  ---
+
+  The only true test of intelligence is  
+  if you get what you want out of life.
+
+  ::
 date: 2025-01-30 23:00:00
 ---
 
