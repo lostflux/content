@@ -1,5 +1,5 @@
 ---
-title: True Intelligence
+title: true intelligence
 description: |
   ::prose-blockquote
   ---
